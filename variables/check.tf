@@ -1,3 +1,3 @@
-variable "v1" {
+variable "v" {
   default = "hello"
 }
