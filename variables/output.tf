@@ -1,3 +1,3 @@
-output "v1" {
-  value = "var.v1"
+output "variablr" {
+  value = var.v1
 }
