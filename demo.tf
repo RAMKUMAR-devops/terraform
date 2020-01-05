@@ -1,4 +1,3 @@
-resource "aws_instance" "web" {
-  ami = ""
-  instance_type = ""
+output "something" {
+  value = "hello world"
 }
